@@ -1,6 +1,6 @@
 # 👋 Hi, I'm nimbus32
 
-![GitHub Avatar](https://github.com/nimbus32.png?size=200)
+![GitHub Avatar](https://github.com/nimbus32.png?size=512)
 
 Welcome to my GitHub homepage!  
 This page automatically fetches my profile info and repositories using the GitHub API.
