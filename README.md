@@ -18,5 +18,5 @@ Each one includes its **name** and **description**, just like on the live page.
 
 ## 🔗 Navigation
 
-- **🏠 Home** — [@nimbus32].(https://nimbus32.github.io)
+- **🏠 Home** — [@nimbus32](https://nimbus32.github.io)
 - **💻 GitHub** — [@nimbus32](https://github.com/nimbus32)
